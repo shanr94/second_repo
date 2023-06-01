@@ -1,4 +1,4 @@
-new-branch-2
+newMAN
 
 new-branch-1
 WTF
